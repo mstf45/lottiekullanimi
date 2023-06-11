@@ -1,6 +1,7 @@
 # lottiekullanimi
 
 A new Flutter project.
+
 pubspec.yaml Used Package => lottie
 
 Video
